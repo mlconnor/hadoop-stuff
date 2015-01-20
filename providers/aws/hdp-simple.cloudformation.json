@@ -72,14 +72,14 @@
     },
 
     "RHEL66" : {
-      "ap-northeast-1"     : { "AMI" : "ami-a15666a0" },
-      "ap-southeast-1"     : { "AMI" : "ami-3813326a" },
-      "ap-southeast-2"     : { "AMI" : "ami-55e38e6f" },
-      "eu-west-1"          : { "AMI" : "ami-9cfd53eb" },
-      "sa-east-1"          : { "AMI" : "ami-995ce884" },
-      "us-east-1"          : { "AMI" : "ami-aed06ac6" },
-      "us-west-1"          : { "AMI" : "ami-69ccd92c" },
-      "us-west-2"          : { "AMI" : "ami-5fbcf36f" }
+      "ap-northeast-1"     : { "AMI" : "ami-89634988" },
+      "ap-southeast-1"     : { "AMI" : "ami-aea582fc" },
+      "ap-southeast-2"     : { "AMI" : "ami-bd523087" },
+      "eu-west-1"          : { "AMI" : "ami-e4ff5c93" },
+      "sa-east-1"          : { "AMI" : "ami-bf9520a2" },
+      "us-east-1"          : { "AMI" : "ami-96a818fe" },
+      "us-west-1"          : { "AMI" : "ami-6bcfc42e" },
+      "us-west-2"          : { "AMI" : "ami-c7d092f7" }
     },
 
     "CENTOS6" : {
